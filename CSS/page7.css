@@ -1,0 +1,209 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+
+    
+    background-color: rgba(81, 210, 242, 0.07);
+    display: flex;
+    overflow-x: hidden;
+    justify-content: center;
+    align-items: center;
+   
+    width: 100%;
+
+
+}
+
+
+
+
+.contenars {
+    width: 100%;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 10px;
+    padding: 20px;
+
+
+
+}
+.logout{
+        background-color: #043838;
+        color: white;
+        width: 60px;
+        height: 30px;
+        margin-top: 1%;
+        border-radius: 10px; 
+        margin-right: 5%;
+}
+.logout:hover{
+    font-size: large;
+}
+
+
+.logo h2 {
+    color: black;
+}
+
+span {
+    color: green;
+}
+
+.logo h2:hover {
+    color: red;
+    font-size: xx-large;
+}
+
+.resce:hover {
+    color: red;
+
+}
+.imgicon {
+
+    height: 40px;
+    background-color: rgba(81, 81, 242, 0.356);
+    border-radius: 20px;
+    margin-left: 80%;
+}
+
+
+
+
+
+
+.content {
+
+    margin-left: 2%;
+    margin-top: 2%;
+
+    display: flex;
+
+    align-items: center;
+    margin: auto;
+    width: 80%;
+
+
+    height: 500px;
+    border-radius: 40px;
+
+}
+
+.DD {
+    background-color: rgba(255, 255, 255, 0.082);
+    width: 30%;
+    height: 350px;
+    margin-left: 400px;
+    margin-top: 50px;
+  
+
+}
+
+.DD h2 {
+    margin-left: 60px;
+    font-size: xx-large;
+}
+
+
+
+.oo {
+    height: 15px;
+    width: 50px;
+    
+
+}
+
+form nav {
+align-items: center;
+
+}
+
+
+
+
+form {
+
+    height: 200px;
+    margin-bottom: 20%;
+    
+}
+
+form input {
+    height: 30px;
+    width: 46%;
+    border-radius: 10px;
+    border-color: #043838;
+    outline: none;
+    
+}
+
+.R {
+
+    background-color: #043838;
+    margin-left: 8%;
+    height: 30px;
+    border-radius: 10px;
+  width: 80%;
+  color: white;
+}
+
+
+.R:hover{
+    font-size: large;
+}
+
+
+form nav {
+padding: 15px;
+
+
+
+}
+
+.ww {
+    width: 100%;
+
+}
+
+
+
+
+.back {
+
+    background-color: #043838;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+
+    width: 100%;
+    padding-top: 10px;
+
+    margin-top: 2%;
+
+    padding: 5px;
+
+
+}
+
+nav ul a {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+}
+li {
+    color: white;
+    list-style-type: none;
+
+}
+h3{
+    color: white;
+}

@@ -1,0 +1,217 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+
+    
+    background-color: rgba(81, 210, 242, 0.07);
+    display: flex;
+    overflow-x: hidden;
+    justify-content: center;
+    align-items: center;
+    
+    width: 100%;
+
+
+}
+
+.logout {
+    background-color: #043838;
+    color: white;
+    width: 60px;
+    height: 30px;
+    margin-top: 1%;
+    border-radius: 10px;
+    margin-right: 5%;
+}
+
+.logout:hover {
+    font-size: large;
+}
+
+
+
+.contenars {
+    width: 100%;
+    
+ 
+}
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    width:100%;
+    height:10px ;
+    padding: 20px;
+    
+
+
+}
+
+
+
+.logo h2 {
+    color: black;
+}
+
+span {
+    color: green;
+}
+
+.logo h2:hover {
+    color: red;
+   font-size: xx-large;
+}
+
+.resce:hover {
+    color: red;
+
+}
+
+
+
+.ww {
+    width: 100%;
+
+}
+
+
+
+.content {
+
+    margin-left: 2%;
+    margin-top: 2%;
+
+    display: flex;
+    
+    align-items: center;
+    margin: auto;
+    width: 80%;
+
+    
+    height: 500px;
+    border-radius: 40px;
+
+}
+
+.DD{
+
+width: 30%;
+height: 500px;
+margin-left:400px ;
+
+
+
+}
+
+.DD h2
+{
+margin-left:100px;
+font-size: xx-large;
+}
+
+.nav1{
+ 
+    display: flex;
+     
+    align-items: center;
+    justify-content: space-between ;
+ height: 40px;
+    margin-bottom: 20px;
+    
+
+}
+.nav2{
+font-size: x-large;
+margin-left: 30px;
+}
+.nav3{
+    font-size: x-large;
+   margin-right: 30px;
+}
+.oo{
+height:15px ;
+width:50px;
+
+
+}
+
+form{
+    
+height: 200px;
+margin-bottom: 20%;
+
+
+}
+form input{
+    height: 30px;
+    width: 100%;
+    border-radius: 10px;
+
+}
+
+
+
+.R {
+
+    background-color: #043838;
+    color:white;
+}
+
+.su:hover{
+    font-size:x-large;
+}
+
+
+#ch{
+
+    display:flex;
+   align-items:center;
+ justify-content: space-between;
+}
+.che{
+    width: 20px;
+    height: 15px;
+
+}
+
+
+
+.back {
+    margin-top: 50px;
+    background-color: #043838;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+    padding-top: 10px;
+    padding: 5px;
+    
+
+}
+
+nav ul a {
+    text-decoration: none;
+    list-style: none;
+    color:white;
+}
+
+
+li {
+    color: white;
+    list-style-type: none;
+
+}
+
+h3{
+    color: white;
+}
+
+
+
+
